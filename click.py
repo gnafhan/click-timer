@@ -3,7 +3,7 @@ import pyautogui
 
 print("start")
 def click_after_10_seconds():
-    # Menunggu selama 10 detik
+    # Menunggu selama 6 detik
     time.sleep(5)
 
     # Mendapatkan posisi kursor mouse saat ini (opsional)
