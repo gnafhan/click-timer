@@ -2,7 +2,7 @@ import time
 import pyautogui
 
 print("start")
-def click_after_10_seconds():
+def click_after_5_seconds():
     # Menunggu selama 6 detik
     time.sleep(5)
 
