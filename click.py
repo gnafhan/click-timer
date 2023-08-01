@@ -16,4 +16,4 @@ def click_after_5_seconds():
 
 
 # Memanggil fungsi click_after_10_seconds()
-click_after_10_seconds()
+click_after_5_seconds()
