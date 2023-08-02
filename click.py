@@ -15,5 +15,5 @@ def click_after_5_seconds():
     pyautogui.click()
 
 
-# Memanggil fungsi click_after_10_seconds()
+# Memanggil fungsi click_after_5_seconds()
 click_after_5_seconds()
