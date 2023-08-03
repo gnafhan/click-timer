@@ -10,7 +10,7 @@ def click_after_5_seconds():
     posisi_x, posisi_y = pyautogui.position()
     # print(f"Posisi kursor saat ini: {posisi_x}, {posisi_y}")
 
-    # Melakukan klik mouse
+    # Melakukan klik mous
      print("click")
     pyautogui.click()
 
